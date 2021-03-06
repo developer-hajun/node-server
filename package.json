@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/developer-hajun/node-server/issues"
   },
-  "homepage": "https://github.com/developer-hajun/node-server#readme"
+  "homepage": "https://github.com/developer-hajun/node-server#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "helmet": "^4.4.1",
+    "supervisor": "^0.12.0"
+  }
 }
